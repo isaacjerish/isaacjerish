@@ -1,5 +1,11 @@
 # 💫 About Me:
-🛠️ Languages & Tech: C, C++, Python, Java,  Assembly, Zephyr and FreeRTOS, Arduino, Raspberry Pi, Verilog, VHDL, Git, Embedded Linux<br>🧠 Currently Learning: Deepening C/C++ for systems programming and embedded software, using Python for machine learning workflows, and diving into RTOS fundamentals, drivers, and bare-metal programming.<br>🎯 Interests: Embedded systems, VLSI, machine learning, digital logic, system-on-chip design, and real-world hardware/software integration.<br>🚧 Currently Building: Viper VM — a custom stack-based virtual machine project. Also working on a smart Gmail cleanup bot, plus Arduino-based automations and demoable embedded apps.<br>🎮 Side Quests: Weightlifting, basketball, and making educational embedded systems meme content 
+🛠️ Tech Stack: C, C++, Python, Java, RISC-V Assembly, System Verilog, Node.js, Arduino, Raspberry Pi, Git, Embedded Linux<br>
+🏗️ Current Focus: Taking Computer Architecture (ECE 3058) this summer, where my favorite work has been on cache optimization and pipeline design implementations. Also doing some web development on the side for local businesses.<br>
+🧠 Currently Learning: Advanced memory hierarchies, processor design principles, and diving deeper into low-level system optimization. Expanding my understanding of hardware-software interfaces.<br>
+🎯 Career Goal: Embedded systems and firmware engineering, bridging the gap between hardware architecture and system software.<br>
+💻 Recent Projects: System Verilog Pipeline + Single Cycle Processor Design, RISC-V assembly implementations, cache simulations in C, and various Node.js applications.<br>
+📚 Side Projects: Creating educational tech content on YouTube and TikTok, explaining tech concepts and breaking down how systems work under the hood.<br>
+🎮 When I'm Not Coding: Weightlifting, basketball, and hiking.
 
 
 ## 🌐 Socials:
