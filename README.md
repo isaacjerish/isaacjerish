@@ -4,7 +4,7 @@
 🧠 Currently Learning: Advanced memory hierarchies, processor design principles, and diving deeper into low-level system optimization. Expanding my understanding of hardware-software interfaces.<br>
 🎯 Career Goal: Embedded systems and firmware engineering, bridging the gap between hardware architecture and system software.<br>
 💻 Recent Projects: System Verilog Pipeline + Single Cycle Processor Design, RISC-V assembly implementations, cache simulations in C, and various Node.js applications.<br>
-📚 Side Projects: Creating educational tech content on YouTube and TikTok, explaining tech concepts and breaking down how systems work under the hood.<br>
+📚 Side Projects: Creating educational tech content on YouTube and TikTok, explaining tech concepts, tech news, and breaking down how systems work under the hood.<br>
 🎮 When I'm Not Coding: Weightlifting, basketball, and hiking.
 
 
