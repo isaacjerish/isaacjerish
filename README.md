@@ -2,7 +2,7 @@
 🛠️ Tech Stack: C, C++, Python, Java, RISC-V Assembly, System Verilog, Node.js, Arduino, Raspberry Pi, Git, Embedded Linux<br>
 🏗️ Current Focus: Taking Computer Architecture (ECE 3058) this summer, where my favorite work has been on cache optimization and pipeline design implementations. Also doing some web development on the side for local businesses.<br>
 🧠 Currently Learning: Advanced memory hierarchies, processor design principles, and diving deeper into low-level system optimization. Expanding my understanding of hardware-software interfaces.<br>
-🎯 Career Goal: Embedded systems and firmware engineering, bridging the gap between hardware architecture and system software.<br>
+🎯 Career Goal: Embedded systems or software engineering<br>
 💻 Recent Projects: System Verilog Pipeline + Single Cycle Processor Design, RISC-V assembly implementations, cache simulations in C, and various Node.js applications.<br>
 📚 Side Projects: Creating educational tech content on YouTube and TikTok, explaining tech concepts, tech news, and breaking down how systems work under the hood.<br>
 🎮 When I'm Not Coding: Weightlifting, basketball, and hiking.
